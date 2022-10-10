@@ -4,7 +4,7 @@ package com.days_13;
 	
 	class Pen{
 		int price;
-		String colour;
+		String colour;                                //Containment(Gtter Setter Method)
 		String bName;
 	
 	public void setPrice(int price) {
@@ -23,7 +23,7 @@ package com.days_13;
 		return colour;
 	}
 	public String getBName() {
-		return bName;
+		return bName;                                     
 	}
 	}
 	public class Bag {

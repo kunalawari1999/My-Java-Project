@@ -6,7 +6,7 @@ public class EmpSalary {
 	double salary;
 	double grossSal;
 	
-	EmpSalary(int empid,String name,double salary){
+	   EmpSalary(int empid,String name,double salary){
 		this.empid=empid;
 		this.name=name;
 		this.salary=salary;

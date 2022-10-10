@@ -7,7 +7,7 @@ public class Patterndemo {
 	for (int i=1;i<=4;i++) {
 		int n=1;
 		for(int k=1;k>=i;k++) {
-			System.out.println("");
+			System.out.print("");
 		}
 		for (int j=4;j>=i;j--) {
 			

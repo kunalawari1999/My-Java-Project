@@ -1,3 +1,4 @@
+
 package com.day9;
 
 import java.util.Scanner;
@@ -16,8 +17,8 @@ public class Automorphic {
 				break;
 			}
 			num=num/10;
-		   square=square/10;
-		}
+		    square=square/10;
+		} 
 		if(num==0) {
 			System.out.println("Number is Automorphic");
 		}
